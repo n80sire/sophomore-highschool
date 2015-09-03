@@ -7,5 +7,3 @@ Includes:
 ---------
   - Driver's Education (Online)
   - AP Physics (Mayntz)
-  - 
-  - 
